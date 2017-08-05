@@ -1,0 +1,16 @@
+{
+  "author": "hector",
+  "bugs": {
+    "url": "https://github.com/btcsuite/btcutil"
+  },
+  "gx": {
+    "dvcsimport": "github.com/btcsuite/btcutil"
+  },
+  "gxVersion": "0.11.0",
+  "language": "go",
+  "license": "ISC",
+  "name": "btcutil",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "2017.7.25"
+}
+
